@@ -1,0 +1,24 @@
+.rectangle-1 {
+    width: 305px;
+    height: 168px;
+    background-color: #FFF;
+    border: 1px solid #DB00FF;
+}
+.rectangle-2 {
+    width: 657px;
+    height: 121px;
+    background-color: #fff;
+    border: 3px dashed #450E4E;
+}
+.rectangle-3 {
+    width: 399px;
+    height: 95px;
+    background-color: #FFF;
+    border: 3px solid #04FF4A;
+}
+.rectangle-4 {
+    width: 1097px;
+    height: 173px;
+    background-color: #247DAF;
+    border: 3px solid #736E42;
+}
